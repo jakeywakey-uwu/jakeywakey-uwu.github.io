@@ -1,0 +1,104 @@
+<html>
+    <title>jakey's website</title>
+
+    <center><div style="background-color: olivedrab; width: 80%;">
+    <h1><b>Welcome to jakey's website</b></h1>
+        <img src="\laylayawn.gif" width="300">
+        <body style="background-color: darkgreen;">
+            <pre>
+hi, I am jakey and I am a controller modder in Portland
+I make phobs, resin buttons, and so some mods
+message me on discord if you want to get anything :3
+(Portland local pickup only)
+            </pre>
+            <p style="font-family: Arial, Helvetica, sans-serif;">discord: jakeywakey_uwu</p>
+        </body>
+        
+        <h1>current inventory</h1>
+        <p>last updated: 01/20/25</p>
+
+        <div>
+            <h1>phobs</h1>
+            
+            <h3>murdered out melee machine - $200</h3>
+            <div style="width: 50%; display: table;">
+                <div style="width: 50%; display: table-cell;">
+                    <img src="\controllers\all_black1.jpg" width="400">
+                </div>
+                <div style="width: 50%; display: table-cell;">
+                    <img src="\controllers\all_black2.jpg" width="400">
+                </div>
+                
+            </div>
+            <p>this all black phob comes loaded with: <br>
+            paracord cable <br>
+            bald as shit buttons <br>
+            spicy sticks <br>
+            ergo triggers <br>
+            l2 stickbox spring <br>
+            light trigger springs <br>
+            stabilized buttons and triggers <br></p>
+            <br>    
+            <h3>orange and the new black - $140</h3>    
+            <img src="\controllers\orange_black.jpg" width="400">
+            <p>this one is for beaver fans or halloween lovers <br>
+                it comes loaded with: <br>
+                bald as shit buttons <br>
+                l2 stickbox spring <br>
+                light trigger springs <br>
+                stabilized buttons and triggers <br></p>
+        </div> <br> 
+    
+        <div>
+            <h1>buttons</h1>
+            <p>resin cast lil jelly beans and gumdrops<br>
+            ABXY sets are $15 each</p>
+
+            <h3>lemon lime</h3>
+            <img src="\buttons\lemon_lime.jpg" width="200">
+            
+            <h3>grape medicine</h3>
+            <img src="\buttons\grape_medicine.jpg" width="200">
+
+            <h3>blue raspberry</h3>
+            <img src="\buttons\blue_raspberry.jpg" width="200">
+
+            <h3>lemon custard</h3>
+            <img src="\buttons\lemon_custard.jpg" width="200">
+
+            <h3>vampire's delight</h3>
+            <img src="\buttons\vampires_delight.jpg" width="200">
+
+            <h3>blue flavor</h3>
+            <img src="\buttons\blue_flavor.jpg" width="200">
+
+            <h3>ube ice cream</h3>
+            <img src="\buttons\ube_ice_cream.jpg" width="200">
+
+            <h3>colgate toothepaste</h3>
+            <img src="\buttons\colgate_toothpaste.jpg" width="200">
+
+            <h3>sugar free bubblegum</h3>
+            <img src="\buttons\bubble_tape.jpg" width="200">
+        </div><br>
+
+        <div>
+            <h1>other stuff</h1>
+            <img src="others\notches.jpg" width="300">
+            <h3>notches</h3>
+            <p>wavedash notches - $25 <br>
+            full hybrid gate - $55 <br>
+            phobs only, provide your own shell</p>
+            <br>
+            <img src="\others\paracord.jpg" width="300">
+            <h3>paracord cables - $50</h3>
+            <p>made to order - black, white, or provide your own paracord/plug</p>
+            <br>
+            <h3>tactile z - $15</h3>
+            <h3>mouseclick z - $30 (phobs only)</h3>
+            <h3>phob conversion - $50 (t3 oem only)</h3>
+        </div>
+
+
+    </div></center>    
+</html>
